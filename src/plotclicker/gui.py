@@ -1,7 +1,7 @@
 import FreeSimpleGUI as sg
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from io_utils import load_csv_data, save_selected_data, update_json_register
+from plotclicker.io_utils import load_csv_data, save_selected_data, update_json_register
 import os
 
 def draw_figure(canvas_elem, figure):

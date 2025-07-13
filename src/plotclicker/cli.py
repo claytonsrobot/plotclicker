@@ -1,8 +1,8 @@
 import typer
 import sys
 from typing import List, Optional
-from io_utils import read_file_list
-from assess import process_csv_interactive
+from plotclicker.io_utils import read_file_list
+from plotclicker.assess import process_csv_interactive
 
 app = typer.Typer(help="Data Assessor CLI")
 

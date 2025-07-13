@@ -13,6 +13,7 @@ dependencies = [
     "typer[all] (>=0.16.0,<0.17.0)",
     "freesimplegui (>=5.2.0.post1,<6.0.0)"
 ]
+packages = [{ include = "plotclicker", from = "src" }] 
 
 
 [build-system]
