@@ -1,0 +1,46 @@
+2025-07-13 11:20:04 [DEBUG] mulch.workspace_factory: Seeded workspace file: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\secrets\secrets-example.yaml
+2025-07-13 11:20:04 [DEBUG] mulch.workspace_factory: Seeded workspace file: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\queries\default-queries.toml
+2025-07-13 11:20:04 [DEBUG] root: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\about_this_workspace.md already exists; skipping
+2025-07-13 11:20:04 [DEBUG] mulch.workspace_factory: Created C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\default-workspace.toml
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\config
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\docs
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\imports
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\exports
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\scripts
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\secrets
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\queries
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created file: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\about_this_workspace.md
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\exports\aggregate
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created file: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\config\default-workspace.toml
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created file: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\config\logging.json
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created file: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\secrets\secrets-example.yaml
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created file: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\queries\default-queries.toml
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Wrote lockfile to: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\space.lock
+2025-07-13 11:39:49 [INFO] mulch.workspace_factory: src lock_path = C:\Users\user\Documents\dev\plotclicker\src\plotclicker\manager.lock
+2025-07-13 11:39:49 [DEBUG] root: Generated workspace_manager.py at C:\Users\user\Documents\dev\plotclicker\src\plotclicker\workspace_manager.py
+2025-07-13 11:39:49 [DEBUG] root: logging_config_path = C:\Users\user\Documents\dev\plotclicker\.mulch\logs\logging.json
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Seeded workspace file: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\secrets\secrets-example.yaml
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Seeded workspace file: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\queries\default-queries.toml
+2025-07-13 11:39:49 [DEBUG] root: C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\about_this_workspace.md already exists; skipping
+2025-07-13 11:39:49 [DEBUG] mulch.workspace_factory: Created C:\Users\user\Documents\dev\plotclicker\workspaces\israel_data_2025\default-workspace.toml
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\config
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\docs
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\imports
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\exports
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\scripts
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\secrets
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\queries
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created file: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\about_this_workspace.md
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created folder: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\exports\aggregate
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created file: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\config\default-workspace.toml
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created file: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\config\logging.json
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created file: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\secrets\secrets-example.yaml
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created file: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\queries\default-queries.toml
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Wrote lockfile to: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\space.lock
+2025-07-13 17:32:16 [INFO] mulch.workspace_factory: src lock_path = C:\Users\user\Documents\dev\plotclicker\src\plotclicker\manager.lock
+2025-07-13 17:32:16 [DEBUG] root: Generated workspace_manager.py at C:\Users\user\Documents\dev\plotclicker\src\plotclicker\workspace_manager.py
+2025-07-13 17:32:16 [DEBUG] root: logging_config_path = C:\Users\user\Documents\dev\plotclicker\.mulch\logs\logging.json
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Seeded workspace file: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\secrets\secrets-example.yaml
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Seeded workspace file: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\queries\default-queries.toml
+2025-07-13 17:32:16 [DEBUG] root: C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\about_this_workspace.md already exists; skipping
+2025-07-13 17:32:16 [DEBUG] mulch.workspace_factory: Created C:\Users\user\Documents\dev\plotclicker\workspaces\refactor\default-workspace.toml

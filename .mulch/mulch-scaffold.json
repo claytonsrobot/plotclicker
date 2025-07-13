@@ -1,0 +1,39 @@
+{
+  "": [
+    "config",
+    "docs",
+    "imports",
+    "exports",
+    "scripts",
+    "secrets",
+    "queries",
+    "workflows",
+    "links",
+    "about_this_workspace.md"
+  ],
+  "exports": [
+    "n-to-one_aggregate",
+    "one-to-one"
+  ],
+  "docs": [
+    "CHANGELOG.md"
+  ],
+  "links": [
+    "links.md.txt"
+  ],
+  "config": [
+    "default-workspace.toml",
+    "plots_config.toml",
+    "logging.json"
+  ],
+  "secrets": [
+    "secrets-example.yaml"
+  ],
+  "workflows": [
+    "automation0.yml"
+  ],
+  "queries": [
+    "default-queries.toml",
+    "filenames_to_plot.toml"
+  ]
+}

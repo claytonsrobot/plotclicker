@@ -1,0 +1,20 @@
+[project]
+name = "plotclicker"
+version = "0.1.0"
+description = "Modular data oversight and sanitation tool with a GUI to click on points desired to keep. The matplotlib plot with a TKagg backend is set into a FreeSimpleGui frame. This tool is easily launched and controlled from the command line CLI tools."
+authors = [
+    {name = "Clayton Bennett",email = "georgeclaytonbennett@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib (>=3.10.3,<4.0.0)",
+    "typer[all] (>=0.16.0,<0.17.0)",
+    "freesimplegui (>=5.2.0.post1,<6.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

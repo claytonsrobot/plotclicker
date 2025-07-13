@@ -1,0 +1,29 @@
+{
+  "scaffold": {
+    "": [
+      "config",
+      "docs",
+      "imports",
+      "exports",
+      "scripts",
+      "secrets",
+      "queries",
+      "about_this_workspace.md"
+    ],
+    "exports": [
+      "aggregate"
+    ],
+    "config": [
+      "default-workspace.toml",
+      "logging.json"
+    ],
+    "secrets": [
+      "secrets-example.yaml"
+    ],
+    "queries": [
+      "default-queries.toml"
+    ]
+  },
+  "generated_by": "user",
+  "generated_at": "2025-07-13T22:32:16.362123+00:00"
+}
